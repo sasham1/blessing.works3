@@ -5,17 +5,15 @@
 
 # Site settings
 
-title: Agency Jekyll Theme
-email: your-mail@your-domain.com
+title: Blessing
+email: s@blessing.works
 description: > # this means to ignore newlines until "author:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-author: laklau
-keyword: jekyll
+  Blessing works.
+author: Blessing
+keyword: Blessing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  laklau
+github_username:  blessing
 
 # Build settings
 
